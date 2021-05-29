@@ -1,0 +1,30 @@
+[ 
+    {
+        "id": 1, 
+        "titulo": "Quincas Borba", 
+        "descricao": "O título do livro está relacionado com o filósofo Quincas Borba, que logo no início da história falece. Com a morte dele, Pedro Rubião de Alvarenga, discípulo do filósofo e seu enfermeiro particular, é agraciado com uma grande herança.", 
+        "autor": "Machado de Assis", 
+        "anoPublicacao": 1886
+    },
+    {
+        "id": 2, 
+        "titulo": "Angústia", 
+        "descricao": "Narrado por Luís da Silva, um funcionário público e escritor frustrado, Angústia é um romance caracterizado pela autoanálise e pelo encadeamento narrativo centrado na interioridade do protagonista.", 
+        "autor": "Graciliano Ramos", 
+        "anoPublicacao": 1936
+    },
+    {
+        "id": 3, 
+        "titulo": "Mensagem", 
+        "descricao": "Esta obra de Pessoa é composta por poesias de cunho nacionalista dividida em três partes, a primeira é denominada Brasão e é subdividida em: Os Campos, Os Castelos, As Quinas, A Coroa e O Timbre; a segunda parte é denominada Mar Português e a terceira parte em O Encoberto, também subdividida em: Os Símbolos, Os Avisos, Os Tempos.", 
+        "autor": "Fernando Pessoa", 
+        "anoPublicacao": 1934
+    },
+    {
+        "id": 4, 
+        "titulo": "Campo Geral", 
+        "descricao": "A história narra a vida da família de Miguilim no interior do sertão mineiro. Viviam numa cidade chamada Mutum, um terreno localizado entre montanhas e isolado geograficamente.", 
+        "autor": "Guimarães Rosa", 
+        "anoPublicacao": 1959
+    }
+]
